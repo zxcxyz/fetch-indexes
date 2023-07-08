@@ -4,14 +4,14 @@ PIP = $(VENV)/bin/pip
 
 .PHONY: data clean
 
-all: data data400 data600
-
-data: $(VENV)/bin/activate
-	$(PYTHON) scripts/scrape.py
-
 $(VENV)/bin/activate: scripts/requirements.txt
 	python3 -m venv $(VENV)
 	$(PIP) install -r scripts/requirements.txt
+
+all: data500 data400 data600
+
+data500: $(VENV)/bin/activate
+	$(PYTHON) scripts/scrape_500.py
 
 data400: $(VENV)/bin/activate
 	$(PYTHON) scripts/scrape_400.py

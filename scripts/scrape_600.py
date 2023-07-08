@@ -6,4 +6,4 @@ link = (
 df = pd.read_html(link, header=0)[0]
 
 # Write to CSV
-df.to_csv("data/constituents_600.csv", index=False)
+df.to_csv("data/600.csv", index=False)
