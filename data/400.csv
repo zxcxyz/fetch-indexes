@@ -4,12 +4,13 @@ ACHC,Acadia Healthcare,Health Care,Health Care Facilities,"Franklin, Tennessee",
 ACIW,ACI Worldwide,Information Technology,Application Software,"Miami, Florida",reports
 ACM,AECOM,Industrials,Construction & Engineering,"Dallas, Texas",reports
 ADC,Agree Realty,Real Estate,Retail REITs,"Bloomfield Hills, Michigan",reports
-ADNT,Adient,Consumer Discretionary,Auto Parts & Equipment,"Plymouth, Michigan",reports
+ADNT,Adient,Consumer Discretionary,Automotive Parts & Equipment,"Plymouth, Michigan",reports
 AFG,American Financial Group,Financials,Multi-line Insurance,"Cincinnati, Ohio",reports
 AGCO,AGCO,Industrials,Agricultural & Farm Machinery,"Duluth, Georgia",reports
-AIRC,Apartment Income REIT,Real Estate,Residential REITs,,reports
+AIRC,Apartment Income REIT,Real Estate,Multi-Family Residential REITs,,reports
 ALE,ALLETE,Utilities,Electric Utilities,,reports
 ALGM,Allegro MicroSystems,Information Technology,Semiconductors,"Manchester, New Hampshire",reports
+ALLY,Ally Financial,Financials,,"Detroit, Michigan",reports
 ALV,Autoliv,Consumer Discretionary,Automotive Parts & Equipment,"Stockholm, Sweden",reports
 AM,Antero Midstream,Energy,Oil & Gas Storage & Transportation,,reports
 AMED,Amedisys,Health Care,Health Care Services,"Baton Rouge, Louisiana",reports
@@ -33,7 +34,7 @@ AZTA,Azenta,Health Care,Life Sciences Tools & Services,"Chelmsford, Massachusett
 BC,Brunswick,Consumer Discretionary,Leisure Products,"Mettawa, Illinois",reports
 BCO,Brink's,Industrials,Security & Alarm Services,"Richmond, Virginia",reports
 BDC,Belden,Information Technology,Electronic Components,"St. Louis, Missouri",reports
-BERY,Berry Global,Materials,,"Evansville, Indiana",reports
+BERY,Berry Global,Materials,Paper Packaging,"Evansville, Indiana",reports
 BHF,Brighthouse Financial,Financials,Life & Health Insurance,"Charlotte, North Carolina",reports
 BJ,BJ's Wholesale Club,Consumer Staples,Hypermarkets & Super Centers,"Marlborough, Massachusetts",reports
 BKH,Black Hills Corporation,Utilities,Multi-Utilities,"Rapid City, South Dakota",reports
@@ -43,34 +44,35 @@ BLKB,Blackbaud,Information Technology,Application Software,"Charleston, South Ca
 BRBR,BellRing Brands,Consumer Staples,Packaged Foods & Meats,,reports
 BRKR,Bruker,Health Care,Health Care Equipment,"Billerica, Massachusetts",reports
 BRX,Brixmor Property Group,Real Estate,Retail REITs,"New York City, New York",reports
-BWXT,BWX Technologies,Industrials,,"Lynchburg, Virginia",reports
+BWXT,BWX Technologies,Industrials,Aerospace & Defense,"Lynchburg, Virginia",reports
 BYD,Boyd Gaming,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",reports
 CABO,Cable One,Communication Services,Cable & Satellite,"Phoenix, Arizona",reports
 CACI,CACI International,Industrials,Diversified Support Services,"Reston, Virginia",reports
 CADE,Cadence Bank,Financials,Regional Banks,"Tupelo, Mississippi Houston, Texas",reports
 CALX,Calix,Information Technology,Application Software,"San Jose, California",reports
-CAR,Avis Budget Group,Industrials,Trucking,"Parsippany, New Jersey",reports
+CAR,Avis Budget Group,Industrials,Passenger Ground Transportation,"Parsippany, New Jersey",reports
 CASY,Casey's General Stores,Consumer Staples,Food Retail,"Ankeny, Iowa",reports
-CATY,Cathay General Bancorp,Financials,Regional Banks,"Los Angeles, California",reports
 CBSH,Commerce Bancshares,Financials,Regional Banks,"Kansas City, Missouri",reports
 CBT,Cabot Corp,Materials,Diversified Chemicals,"Boston, Massachusetts",reports
 CC,Chemours,Materials,Diversified Chemicals,"Wilmington, Delaware",reports
-CCK,Crown Holdings,Materials,,"Yardley, Pennsylvania",reports
+CCK,Crown Holdings,Materials,Paper Packaging,"Yardley, Pennsylvania",reports
 CELH,Celsius Holdings,Consumer Staples,Soft Drinks,,reports
 CFR,Frost Bank,Financials,Regional Banks,"San Antonio, Texas",reports
 CGNX,Cognex,Information Technology,Electronic Equipment & Instruments,"Natick, Massachusetts",reports
 CHDN,Churchill Downs Inc.,Consumer Discretionary,Casinos & Gaming,"Louisville, Kentucky",reports
 CHE,Chemed Corp.,Health Care,Health Care Services,"Cincinnati, Ohio",reports
 CHH,Choice Hotels,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Rockville, Maryland",reports
+CHK,Chesapeake Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",reports
 CHRD,Chord Energy,Energy,Oil & Gas Exploration & Production,"Houston, Texas",reports
-CHX,ChampionX,Energy,Oil & Gas Equipment & Services,,reports
+CHX,ChampionX,Energy,Oil & Gas Equipment & Services,"The Woodlands, Texas",reports
 CIEN,Ciena,Information Technology,Communications Equipment,"Hanover, Maryland",reports
+CIVI,Civitas Resources,Energy,Oil & Gas Exploration & Production,"Denver, Colorado",reports
 CLF,Cleveland-Cliffs,Materials,Steel,"Cleveland, Ohio",reports
 CLH,Clean Harbors,Industrials,Environmental & Facilities Services,"Norwell, Massachusetts",reports
 CMC,Commercial Metals,Materials,Steel,"Irving, Texas",reports
 CNO,CNO Financial Group,Financials,Life & Health Insurance,"Carmel, Indiana",reports
 CNX,CNX Resources,Energy,Oil & Gas Exploration & Production,"Pittsburgh, Pennsylvania",reports
-CNXC,Concentrix,Information Technology,Data Processing & Outsourced Services,"Newark, California",reports
+CNXC,Concentrix,Industrials,Data Processing & Outsourced Services,"Newark, California",reports
 COHR,Coherent Corp.,Information Technology,Electronic Components,"Saxonburg, Pennsylvania",reports
 COKE,Coca-Cola Consolidated,Consumer Staples,Soft Drinks,"Charlotte, North Carolina",reports
 COLB,Columbia Banking System,Financials,Regional Banks,"Tacoma, Washington",reports
@@ -86,33 +88,35 @@ CUBE,CubeSmart,Real Estate,Industrial REITs,"Malvern, Pennsylvania",reports
 CUZ,Cousins Properties,Real Estate,Office REITs,"Atlanta, Georgia",reports
 CVLT,CommVault Systems,Information Technology,Systems Software,"Tinton Falls, New Jersey",reports
 CW,Curtiss-Wright,Industrials,Aerospace & Defense,"Davidson, North Carolina",reports
-CXT,Crane NXT,Industrials,Industrial Machinery & Supplies & Components,"Stamford, Connecticut",reports
+CXT,Crane NXT,Information Technology,Electronic Equipment & Instruments,"Stamford, Connecticut",reports
 DAR,Darling Ingredients,Consumer Staples,Agricultural Products,,reports
-DBX,Dropbox,Information Technology,,"San Francisco, California",reports
+DBX,Dropbox,Information Technology,Application Software,"San Francisco, California",reports
 DCI,Donaldson,Industrials,Industrial Machinery,"Bloomington, Minnesota",reports
 DECK,Deckers Brands,Consumer Discretionary,Footwear,"Goleta, California",reports
 DINO,HF Sinclair,Energy,Oil & Gas Refining & Marketing,"Dallas, Texas",reports
 DKS,Dick's Sporting Goods,Consumer Discretionary,Specialty Stores,"Coraopolis, Pennsylvania",reports
+DLB,Dolby,Information Technology,Application Software,"San Francisco, California",reports
 DOC,Physicians Realty Trust,Real Estate,Health Care REITs,"Milwaukee, Wisconsin",reports
-DOCS,Doximity,Health Care,,"San Francisco, California",reports
+DOCS,Doximity,Health Care,Health Care Technology,"San Francisco, California",reports
 DT,Dynatrace,Information Technology,Application Software,"Waltham, Massachusetts",reports
 DTM,DT Midstream,Energy,Oil & Gas Storage & Transportation,"Detroit, Michigan",reports
-EEFT,Euronet Worldwide,Information Technology,Data Processing & Outsourced Services,"Leawood, Kansas",reports
+EEFT,Euronet Worldwide,Financials,Transaction & Payment Processing Services,"Leawood, Kansas",reports
 EGP,EastGroup Properties,Real Estate,Industrial REITs,,reports
 EHC,Encompass Health,Health Care,Health Care Facilities,"Birmingham, Alabama",reports
+ELS,Equity Lifestyle Properties,Real Estate,Single-Family Residential REITs,"Chicago, Illinois",reports
 EME,Emcor,Industrials,Construction & Engineering,"Norwalk, Connecticut",reports
 ENOV,Enovis,Health Care,Health Care Equipment,"Wilmington, Delaware",reports
-ENR,Energizer,Consumer Staples,Household Products,"Town and Country, Missouri",reports
 ENS,EnerSys,Industrials,Electrical Components & Equipment,"Reading, Pennsylvania",reports
 ENV,Envestnet,Information Technology,Application Software,"Chicago, Illinois",reports
-EPR,EPR Properties,Real Estate,Specialized REITs,"Kansas City, Missouri",reports
+EPR,EPR Properties,Real Estate,Other Specialized REITs,"Kansas City, Missouri",reports
+ERIE,Erie Indemnity,Financials,Insurance Brokers,"Erie, Pennsylvania",reports
 ESAB,ESAB,Industrials,Industrial Machinery,"North Bethesda, Maryland",reports
-ESNT,Essent Group Ltd.,Financials,Thrifts & Mortgage Finance,,reports
+ESNT,Essent Group Ltd.,Financials,Commercial & Residential Mortgage Finance,,reports
 ETRN,Equitrans Midstream,Energy,Oil & Gas Storage & Transportation,"Canonsburg, Pennsylvania",reports
 EVR,Evercore,Financials,Investment Banking & Brokerage,"New York City, New York",reports
 EWBC,East West Bancorp,Financials,Regional Banks,,reports
 EXEL,Exelixis,Health Care,Biotechnology,"Alameda, California",reports
-EXLS,EXL Service,Information Technology,IT Consulting & Other Services,"New York City, New York",reports
+EXLS,EXL Service,Industrials,Data Processing & Outsourced Services,"New York City, New York",reports
 EXP,Eagle Materials,Materials,Construction Materials,"Dallas, Texas",reports
 EXPO,Exponent,Industrials,Research & Consulting Services,"Menlo Park, California",reports
 FAF,First American,Financials,Property & Casualty Insurance,"Santa Ana, California",reports
@@ -123,42 +127,43 @@ FFIN,First Financial Bankshares,Financials,Regional Banks,"Cincinnati, Ohio",rep
 FHI,Federated Hermes,Financials,Asset Management & Custody Banks,"Pittsburgh, Pennsylvania",reports
 FHN,First Horizon,Financials,Regional Banks,"Memphis, Tennessee",reports
 FIVE,Five Below,Consumer Discretionary,Specialty Stores,"Philadelphia, Pennsylvania",reports
-FL,Foot Locker,Consumer Discretionary,Apparel Retail,"New York City, New York",reports
 FLO,Flowers Foods,Consumer Staples,Packaged Foods & Meats,"Thomasville, Georgia",reports
 FLR,Fluor,Industrials,Construction & Engineering,"Irving, Texas",reports
 FLS,Flowserve,Industrials,Industrial Machinery,"Irving, Texas",reports
 FNB,FNB Corporation,Financials,Regional Banks,"Pittsburgh, Pennsylvania",reports
-FOXF,Fox Factory,Consumer Discretionary,Auto Parts & Equipment,"Duluth, Georgia",reports
+FND,Floor & Decor,Consumer Discretionary,Home Improvement Retail,"Smyrna, Georgia",reports
+FNF,Fidelity National Financial,Financials,,"Jacksonville, Florida",reports
+FOXF,Fox Factory,Consumer Discretionary,Automotive Parts & Equipment,"Duluth, Georgia",reports
 FR,First Industrial Realty Trust,Real Estate,Industrial REITs,"Chicago, Illinois",reports
 FYBR,Frontier Communications,Communication Services,Integrated Telecommunication Services,"Norwalk, Connecticut",reports
-G,Genpact,Information Technology,IT Consulting & Other Services,"New York City, New York",reports
+G,Genpact,Industrials,Data Processing & Outsourced Services,"New York City, New York",reports
 GATX,GATX,Industrials,Construction Machinery & Heavy Trucks,"Chicago, Illinois",reports
 GBCI,Glacier Bancorp,Financials,Regional Banks,"Kalispell, Montana",reports
+GDDY,GoDaddy,Information Technology,,"Tempe, Arizona",reports
 GEF,"Greif, Inc.",Materials,Metal & Glass Containers,"Delaware, Ohio",reports
 GGG,Graco,Industrials,Industrial Machinery,"Minneapolis, Minnesota",reports
 GHC,Graham Holdings,Consumer Discretionary,Education Services,"Arlington County, Virginia",reports
+GLPI,Gaming and Leisure Properties,Real Estate,,"Wyomissing, Pennsylvania",reports
 GME,GameStop,Consumer Discretionary,Computer & Electronics Retail,"Grapevine, Texas",reports
 GMED,Globus Medical,Health Care,Health Care Equipment,"Audubon, Pennsylvania",reports
-GNTX,Gentex,Consumer Discretionary,Auto Parts & Equipment,"Zeeland, Michigan",reports
+GNTX,Gentex,Consumer Discretionary,Automotive Parts & Equipment,"Zeeland, Michigan",reports
 GO,Grocery Outlet,Consumer Staples,Food Retail,"Emeryville, California",reports
-GPK,Graphic Packaging,Materials,,"Atlanta, Georgia",reports
+GPK,Graphic Packaging,Materials,Paper Packaging,"Atlanta, Georgia",reports
 GPS,Gap,Consumer Discretionary,Apparel Retail,"San Francisco, California",reports
 GT,Goodyear Tire & Rubber,Consumer Discretionary,Tires & Rubber,"Akron, Ohio",reports
 GTLS,Chart Industries,Industrials,Industrial Machinery,,reports
 GXO,GXO Logistics,Industrials,Air Freight & Logistics,"Greenwich, Connecticut",reports
+H,Hyatt,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Chicago, Illinois",reports
 HAE,Haemonetics,Health Care,Health Care Supplies,"Boston, Massachusetts",reports
 HALO,Halozyme,Health Care,Life Sciences Tools & Services,"San Diego, California",reports
-HE,Hawaiian Electric Industries,Utilities,Electric Utilities,"Honolulu, Hawaii",reports
 HELE,Helen of Troy Limited,Consumer Discretionary,Household Appliances,"Hamilton, Bermuda",reports
 HGV,Hilton Grand Vacations,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Orlando, Florida",reports
-HIW,Highwoods Properties,Real Estate,Office REITs,,reports
 HOG,Harley-Davidson,Consumer Discretionary,Motorcycle Manufacturers,"Milwaukee, Wisconsin",reports
 HOMB,Home BancShares,Financials,Regional Banks,"Conway, Arkansas",reports
 HQY,HealthEquity,Health Care,Managed Health Care,"Draper, Utah",reports
 HR,Healthcare Realty Trust,Real Estate,Health Care REITs,,reports
 HRB,H&R Block,Consumer Discretionary,Specialized Consumer Services,"Kansas City, Missouri",reports
 HTZ,Hertz,Industrials,Passenger Ground Transportation,"Estero, Florida",reports
-HUBB,Hubbell Incorporated,Industrials,Industrial Machinery,"Shelton, Connecticut",reports
 HWC,Hancock Whitney,Financials,Regional Banks,"Gulfport, Mississippi",reports
 HXL,Hexcel,Industrials,Aerospace & Defense,"Stamford, Connecticut",reports
 IART,Integra Lifesciences Holdings,Health Care,Health Care Equipment,,reports
@@ -169,15 +174,14 @@ IDA,Idacorp,Utilities,Electric Utilities,"Boise, Idaho",reports
 INGR,Ingredion,Consumer Staples,Agricultural Products,"Westchester, Illinois",reports
 IPGP,IPG Photonics,Information Technology,Electronic Manufacturing Services,"Oxford, Massachusetts",reports
 IRDM,Iridium Communications,Communication Services,Alternative Carriers,"McLean, Virginia",reports
-IRT,IRT Living,Real Estate,Residential REITs,,reports
+IRT,IRT Living,Real Estate,Multi-Family Residential REITs,,reports
 ITT,ITT,Industrials,Industrial Machinery,"Stamford, Connecticut",reports
 JAZZ,Jazz Pharmaceuticals,Health Care,Pharmaceuticals,"Dublin, Ireland",reports
 JBL,Jabil Circuit,Information Technology,Electronic Manufacturing Services,"St. Petersburg, Florida",reports
-JBLU,JetBlue,Industrials,Airlines,"Long Island City, New York",reports
 JEF,Jefferies,Financials,Multi-Sector Holdings,"New York City, New York",reports
 JHG,Janus Henderson,Financials,Asset Management & Custody Banks,,reports
 JLL,Jones Lang LaSalle,Real Estate,Real Estate Services,"Chicago, Illinois",reports
-JWN,Nordstrom,Consumer Discretionary,Department Stores,"Seattle, Washington",reports
+JWN,Nordstrom,Consumer Discretionary,Broadline Retail,"Seattle, Washington",reports
 KBH,KB Home,Consumer Discretionary,Homebuilding,"Los Angeles, California",reports
 KBR,KBR,Industrials,Diversified Support Services,"Houston, Texas",reports
 KD,Kyndryl,Information Technology,IT Consulting & Other Services,"New York City, New York",reports
@@ -185,14 +189,13 @@ KEX,Kirby,Industrials,Marine,"Houston, Texas",reports
 KMPR,Kemper,Financials,Multi-line Insurance,"Chicago, Illinois",reports
 KNF,Knife River Corporation,Materials,Construction Materials,reports,
 KNSL,Kinsale Capital Group,Financials,Property & Casualty Insurance,,reports
-KNX,Knight-Swift,Industrials,Trucking,"Phoenix, Arizona",reports
+KNX,Knight-Swift,Industrials,Cargo Ground Transportation,"Phoenix, Arizona",reports
 KRC,Kilroy Realty Corp,Real Estate,Office REITs,,reports
 KRG,Kite Realty Group Trust,Real Estate,Retail REITs,,reports
-KSS,Kohl's,Consumer Discretionary,General Merchandise Stores,"Menomonee Falls, Wisconsin",reports
 LAD,Lithia Motors,Consumer Discretionary,Automotive Retail,"Medford, Oregon",reports
-LAMR,Lamar Advertising Company,Real Estate,Specialized REITs,"Baton Rouge, Louisiana",reports
+LAMR,Lamar Advertising Company,Real Estate,Other Specialized REITs,"Baton Rouge, Louisiana",reports
 LANC,Lancaster Colony Corp,Consumer Staples,Packaged Foods & Meats,,reports
-LEA,Lear,Consumer Discretionary,Auto Parts & Equipment,"Southfield, Michigan",reports
+LEA,Lear,Consumer Discretionary,Automotive Parts & Equipment,"Southfield, Michigan",reports
 LECO,Lincoln Electric,Industrials,Industrial Machinery,"Euclid, Ohio",reports
 LEG,Leggett & Platt,Consumer Discretionary,Home Furnishings,"Carthage, Missouri",reports
 LFUS,Littelfuse,Information Technology,Electronic Components,"Chicago, Illinois",reports
@@ -204,9 +207,8 @@ LNW,Light & Wonder,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",r
 LOPE,Grand Canyon Education,Consumer Discretionary,Education Services,"Phoenix, Arizona",reports
 LPX,Louisiana-Pacific,Materials,Forest Products,"Nashville, Tennessee",reports
 LSCC,Lattice Semiconductor,Information Technology,Semiconductors,"Hillsboro, Oregon",reports
-LSI,Life Storage,Real Estate,Specialized REITs,"Williamsville, New York",reports
-LSTR,Landstar System,Industrials,Trucking,"Jacksonville, Florida",reports
-M,Macy's,Consumer Discretionary,Department Stores,"New York City, New York",reports
+LSTR,Landstar System,Industrials,Cargo Ground Transportation,"Jacksonville, Florida",reports
+M,Macy's,Consumer Discretionary,Broadline Retail,"New York City, New York",reports
 MAN,ManpowerGroup,Industrials,Human Resource & Employment Services,"Milwaukee, Wisconsin",reports
 MANH,Manhattan Associates,Information Technology,Application Software,,reports
 MASI,Masimo,Health Care,Health Care Equipment,"Irvine, California",reports
@@ -215,21 +217,21 @@ MDU,MDU Resources,Industrials,Construction & Engineering,"Bismarck, North Dakota
 MEDP,Medpace,Health Care,Biotechnology,"Cincinnati, Ohio",reports
 MIDD,Middleby,Industrials,Industrial Machinery,"Elgin, Illinois",reports
 MKSI,MKS Instruments,Information Technology,Semiconductor Equipment,"Andover, Massachusetts",reports
-MMS,Maximus Inc.,Information Technology,Data Processing & Outsourced Services,"Tysons, Virginia",reports
+MMS,Maximus Inc.,Industrials,Data Processing & Outsourced Services,"Tysons, Virginia",reports
 MODG,Topgolf Callaway Brands,Consumer Discretionary,Leisure Products,"Carlsbad, California",reports
+MORN,"Morningstar, Inc.",Financials,,"Chicago, Illinois",reports
 MP,MP Materials,Materials,Diversified Metals & Mining,"Las Vegas, Nevada",reports
 MPW,Medical Properties Trust,Real Estate,Health Care REITs,"Birmingham, Alabama",reports
-MRCY,Mercury Systems,Industrials,Electrical Components & Equipment,"Andover, Massachusetts",reports
 MSA,MSA Safety,Industrials,Office Services & Supplies,"Cranberry Township, Pennsylvania",reports
 MSM,MSC Industrial Direct,Industrials,Trading Companies & Distributors,"Melville, New York Davidson, North Carolina",reports
 MTDR,Matador Resources,Energy,Oil & Gas Exploration & Production,,reports
 MTG,MGIC Investment Corporation,Financials,Reinsurance,"Milwaukee, Wisconsin",reports
+MTN,Vail Resorts,Consumer Discretionary,,"Broomfield, Colorado",reports
 MTSI,MACOM Technology Solutions,Information Technology,Semiconductors,"Lowell, Massachusetts",reports
 MTZ,MasTec,Industrials,Construction & Engineering,"Coral Gables, Florida",reports
 MUR,Murphy Oil,Energy,Oil & Gas Exploration & Production,"Houston, Texas",reports
 MUSA,Murphy USA,Consumer Discretionary,Automotive Retail,"El Dorado, Arkansas",reports
 NARI,Inari Medical,Health Care,Health Care Equipment,,reports
-NATI,National Instruments,Information Technology,Electronic Equipment & Instruments,"Austin, Texas",reports
 NBIX,Neurocrine Biosciences,Health Care,Biotechnology,"San Diego, California",reports
 NCR,NCR,Information Technology,IT Consulting & Other Services,"Atlanta, Georgia",reports
 NEOG,Neogen,Health Care,Health Care Supplies,"Lansing, Michigan",reports
@@ -240,35 +242,35 @@ NLY,Annaly Capital Management,Financials,Mortgage REITs,"New York City, New York
 NNN,National Retail Properties,Real Estate,Retail REITs,"Orlando, Florida",reports
 NOV,Nov,Energy,Oil & Gas Equipment & Services,"Houston, Texas",reports
 NOVT,Novanta,Information Technology,Electronic Equipment & Instruments,,reports
-NSA,National Storage Affiliates Trust,Real Estate,Specialized REITs,,reports
+NSA,National Storage Affiliates Trust,Real Estate,Self-Storage REITs,,reports
 NSP,Insperity,Industrials,Human Resource & Employment Services,"Houston, Texas",reports
 NVST,Envista Holdings,Health Care,Health Care Supplies,,reports
 NVT,nVent Electric plc,Industrials,Electrical Components & Equipment,,reports
 NWE,NorthWestern Corporation,Utilities,Multi-Utilities,"Sioux Falls, South Dakota",reports
 NXST,Nexstar Media Group,Communication Services,Movies & Entertainment,"Irving, Texas",reports
-NYCB,New York Community Bank,Financials,Thrifts & Mortgage Finance,"Hicksville, New York",reports
+NYCB,New York Community Bank,Financials,Regional Banks,"Hicksville, New York",reports
 NYT,New York Times Company,Communication Services,Publishing,"New York City, New York",reports
 OC,Owens Corning,Industrials,Building Products,"Toledo, Ohio",reports
 OFC,Corporate Office Properties Trust,Real Estate,Office REITs,"Columbia, Maryland",reports
 OGE,OGE Energy,Utilities,Multi-Utilities,"Oklahoma City, Oklahoma",reports
 OGS,ONE Gas,Utilities,Gas Utilities,"Tulsa, Oklahoma",reports
-OHI,Omega Healthcare Investors,Real Estate,Specialized REITs,,reports
+OHI,Omega Healthcare Investors,Real Estate,Health Care REITs,,reports
 OLED,Universal Display,Information Technology,Semiconductors,"Ewing, NJ",reports
-OLLI,Ollie's Bargain Outlet,Consumer Discretionary,General Merchandise Stores,"Harrisburg, Pennsylvania",reports
+OLLI,Ollie's Bargain Outlet,Consumer Discretionary,Broadline Retail,"Harrisburg, Pennsylvania",reports
 OLN,Olin,Materials,Diversified Chemicals,"Clayton, Missouri",reports
-OMCL,Omnicell,Health Care,Health Care Technology,"Mountain View, California",reports
-ONB,Old National,Financials,Regional Banks,"Chicago, Illinois Evansville, Indiana",reports
+ONB,Old National Bank,Financials,Regional Banks,"Evansville, Indiana",reports
+ONTO,Onto Innovation,Information Technology,Semiconductor Equipment,"Wilmington, Massachusetts",reports
 OPCH,Option Care Health,Health Care,Health Care Facilities,,reports
 ORA,Ormat Technologies,Utilities,Renewable Electricity,"Reno, Nevada",reports
 ORI,Old Republic International,Financials,Property & Casualty Insurance,"Chicago, Illinois",reports
 OSK,Oshkosh,Industrials,Construction Machinery & Heavy Trucks,"Oshkosh, Wisconsin",reports
-OVV,Ovintiv,Energy,,"Denver, Colorado",reports
+OVV,Ovintiv,Energy,Oil & Gas Exploration & Production,"Denver, Colorado",reports
 OZK,Bank OZK,Financials,Regional Banks,"Little Rock, Arkansas",reports
+PAG,Penske Automotive Group,Consumer Discretionary,Automotive Retail,"Bloomfield Hills, Michigan",reports
 PB,Prosperity Bancshares,Financials,Regional Banks,"Houston, Texas",reports
 PBF,PBF Energy,Energy,Oil & Gas Refining & Marketing,"Parsippany, New Jersey",reports
-PCH,PotlatchDeltic,Real Estate,Specialized REITs,"Spokane, Washington",reports
-PCTY,Paylocity,Information Technology,Application Software,"Schaumburg, Illinois",reports
-PDCE,PDC Energy,Energy,Oil & Gas Exploration & Production,,reports
+PCH,PotlatchDeltic,Real Estate,Timber REITs,"Spokane, Washington",reports
+PCTY,Paylocity,Industrials,Human Resource & Employment Services,"Schaumburg, Illinois",reports
 PDCO,Patterson Companies,Health Care,Health Care Distributors,"Mendota Heights, Minnesota",reports
 PEN,Penumbra,Health Care,Health Care Equipment,,reports
 PENN,Penn Entertainment,Consumer Discretionary,Casinos & Gaming,"Wyomissing, Pennsylvania",reports
@@ -276,20 +278,21 @@ PFGC,Performance Food Group,Consumer Staples,Food Distributors,"Richmond, Virgin
 PGNY,Progyny,Health Care,Health Care Services,,reports
 PII,Polaris,Consumer Discretionary,Leisure Products,"Medina, Minnesota",reports
 PK,Park Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Tysons, Virginia",reports
-PLNT,Planet Fitness,Consumer Discretionary,,"Hampton, New Hampshire",reports
+PLNT,Planet Fitness,Consumer Discretionary,Leisure Facilities,"Hampton, New Hampshire",reports
 PNFP,Pinnacle Financial Partners,Financials,Regional Banks,"Nashville, Tennessee",reports
 PNM,PNM Resources,Utilities,Electric Utilities,"Albuquerque, New Mexico",reports
 POR,Portland General Electric,Utilities,Electric Utilities,"Portland, Oregon",reports
 POST,Post Holdings,Consumer Staples,Packaged Foods & Meats,"St Louis, Missouri",reports
 POWI,Power Integrations,Information Technology,Semiconductors,,reports
 PPC,Pilgrim's Pride,Consumer Staples,Packaged Foods & Meats,"Greeley, Colorado",reports
+PR,Permian Resources,Energy,,"Midland, Texas",reports
 PRGO,Perrigo,Health Care,Pharmaceuticals,"Grand Rapids, Michigan",reports
 PRI,Primerica,Financials,Life & Health Insurance,"Duluth, Georgia",reports
 PVH,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",reports
-PZZA,Papa John's Pizza,Consumer Discretionary,Restaurants,"Jeffersontown, Kentucky",reports
 QDEL,QuidelOrtho,Health Care,Health Care Supplies,"San Diego, California",reports
 QLYS,Qualys,Information Technology,Systems Software,"Foster City, California",reports
-R,Ryder,Industrials,Trucking,"Miami, Florida",reports
+R,Ryder,Industrials,Cargo Ground Transportation,"Miami, Florida",reports
+RBC,RBC Bearings,Industrials,,"Oxford, Connecticut",reports
 RCM,R1 RCM,Health Care,Health Care Services,"Murray, Utah",reports
 REXR,Rexford Industrial Realty,Real Estate,Industrial REITs,,reports
 RGA,Reinsurance Group of America,Financials,Reinsurance,"Chesterfield, Missouri",reports
@@ -303,8 +306,8 @@ RRC,Range Resources,Energy,Oil & Gas Exploration & Production,"Fort Worth, Texas
 RRX,Regal Rexnord,Industrials,Electrical Components & Equipment,"Beloit, Wisconsin",reports
 RS,Reliance Steel & Aluminum Co.,Materials,Steel,"Scottsdale, Arizona",reports
 RUN,Sunrun,Industrials,Building Products,"San Francisco, California",reports
-RYN,Rayonier,Real Estate,Specialized REITs,"Wildlight, Florida",reports
-SAIA,Saia,Industrials,Trucking,"Johns Creek, Georgia",reports
+RYN,Rayonier,Real Estate,Timber REITs,"Wildlight, Florida",reports
+SAIA,Saia,Industrials,Cargo Ground Transportation,"Johns Creek, Georgia",reports
 SAIC,Science Applications Intl Corp,Industrials,Diversified Support Services,"Reston, Virginia",reports
 SAM,Boston Beer Company,Consumer Staples,Brewers,"Boston, Massachusetts",reports
 SBRA,Sabra Health Care REIT,Real Estate,Health Care REITs,,reports
@@ -328,15 +331,13 @@ SRC,Spirit Realty Capital,Real Estate,Retail REITs,,reports
 SRCL,Stericycle,Industrials,Environmental & Facilities Services,"Bannockburn, Illinois",reports
 SSB,South State Bank,Financials,Regional Banks,"Winter Haven, Florida",reports
 SSD,Simpson Manufacturing,Industrials,Building Products,"Pleasanton, California",reports
-STAA,STAAR Surgical,Health Care,Health Care Equipment,"Lake Forest, California",reports
+ST,Sensata Technologies,Industrials,,"Attleboro, Massachusetts",reports
 STAG,STAG Industrial,Real Estate,Industrial REITs,"Boston, Massachusetts",reports
 STWD,Starwood Property Trust,Financials,Mortgage REITs,"Greenwich, Connecticut",reports
 SWAV,Shockwave Medical,Health Care,Health Care Equipment,,reports
 SWN,Southwestern Energy,Energy,Oil & Gas Exploration & Production,"Spring, Texas",reports
 SWX,Southwest Gas Corp,Utilities,Gas Utilities,"Las Vegas, Nevada",reports
-SXT,Sensient Technologies,Materials,Specialty Chemicals,"Milwaukee, Wisconsin",reports
 SYNA,Synaptics,Information Technology,Semiconductors,"San Jose, California",reports
-SYNH,Syneos Health,Health Care,Life Sciences Tools & Services,"Morrisville, North Carolina",reports
 TCBI,Texas Capital Bancshares,Financials,Regional Banks,"Dallas, Texas",reports
 TDC,Teradata,Information Technology,IT Consulting & Other Services,"San Diego, California",reports
 TEX,Terex,Industrials,Construction Machinery & Heavy Trucks,"Norwalk, Connecticut",reports
@@ -350,9 +351,8 @@ TNL,Travel + Leisure Co.,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 TOL,Toll Brothers,Consumer Discretionary,Homebuilding,"Fort Washington, Pennsylvania",reports
 TPX,Tempur Sealy,Consumer Discretionary,Home Furnishings,"Lexington, Kentucky",reports
 TREX,Trex,Industrials,Building Products,"Winchester, Virginia",reports
-TRIP,TripAdvisor,Communication Services,Interactive Media & Services,"Needham, Massachusetts",reports
 TTC,Toro,Industrials,Agricultural & Farm Machinery,"Bloomington, Minnesota",reports
-TTEK,Tetra Tech,Industrials,Environmental & Facilities Services,"Pasadena, California",reports
+TTEK,Tetra Tech,Industrials,Construction & Engineering,"Pasadena, California",reports
 TXRH,Texas Roadhouse,Consumer Discretionary,Restaurants,"Louisville, Kentucky",reports
 UA,Under Armour (Class C),Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",reports
 UAA,Under Armour (Class A),Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",reports
@@ -361,25 +361,26 @@ UFPI,UFP Industries,Industrials,Building Products,"Grand Rapids, Michigan",repor
 UGI,UGI Corp,Utilities,Gas Utilities,"King of Prussia, Pennsylvania",reports
 UMBF,UMB Financial Corp.,Financials,Regional Banks,"Kansas City, Missouri",reports
 UNM,Unum,Financials,Life & Health Insurance,"Chattanooga, Tennessee",reports
-UNVR,Univar Solutions,Industrials,Trading Companies & Distributors,"Downers Grove, Illinois",reports
 USFD,US Foods,Consumer Staples,Food Distributors,"Rosemont, Illinois",reports
 UTHR,United Therapeutics,Health Care,Biotechnology,,reports
 VAC,Marriott Vacations Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Orlando, Florida",reports
 VAL,Valaris,Energy,Oil & Gas Drilling,"Houston, Texas",reports
-VC,Visteon,Consumer Discretionary,Auto Parts & Equipment,"Van Buren Township, Michigan",reports
-VICR,Vicor,Industrials,Electrical Components & Equipment,"Andover, Massachusetts",reports
+VC,Visteon,Consumer Discretionary,Automotive Parts & Equipment,"Van Buren Township, Michigan",reports
 VLY,Valley,Financials,Regional Banks,"Wayne, New Jersey",reports
 VMI,Valmont,Industrials,Industrial Machinery,"Omaha, Nebraska",reports
 VNO,Vornado Realty Trust,Real Estate,Office REITs,"New York City, New York",reports
 VNT,Vontier,Information Technology,Electronic Equipment & Instruments,"Raleigh, North Carolina",reports
 VOYA,Voya Financial,Financials,Multi-Sector Holdings,"New York City, New York",reports
 VSH,Vishay,Information Technology,Electronic Components,"Malvern, Pennsylvania",reports
-VVV,Valvoline,Materials,Commodity Chemicals,"Lexington, Kentucky",reports
+VST,Vistra Corp,Utilities,Electric Utilities,"Irving, Texas",reports
+VSTS,Vestis,Industrials,Diversified Support Services,"Roswell, Georgia",reports
+VVV,Valvoline,Consumer Discretionary,Automotive Retail,"Lexington, Kentucky",reports
 WBS,Webster Bank,Financials,Regional Banks,"Stamford, Connecticut",reports
-WCC,WESCO International,Industrials,,"Pittsburgh, Pennsylvania",reports
+WCC,WESCO International,Industrials,Trading Companies & Distributors,"Pittsburgh, Pennsylvania",reports
 WEN,Wendy's,Consumer Discretionary,Restaurants,"Dublin, Ohio",reports
-WERN,Werner Enterprises,Industrials,Trucking,"Omaha, Nebraska",reports
-WEX,WEX Inc.,Information Technology,Data Processing & Outsourced Services,"South Portland, Maine",reports
+WERN,Werner Enterprises,Industrials,Cargo Ground Transportation,"Omaha, Nebraska",reports
+WEX,WEX Inc.,Financials,Transaction & Payment Processing Services,"South Portland, Maine",reports
+WFRD,Weatherford International,Energy,,"Houston, Texas",reports
 WH,Wyndham Hotels & Resorts,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Parsippany, New Jersey",reports
 WING,Wingstop,Consumer Discretionary,Restaurants,"Addison, Texas",reports
 WLK,Westlake,Materials,Specialty Chemicals,"Houston, Texas",reports
@@ -391,12 +392,11 @@ WSO,Watsco,Industrials,Trading Companies & Distributors,"Miami, Florida",reports
 WTFC,Wintrust,Financials,Regional Banks,"Rosemont, Illinois",reports
 WTRG,Essential Utilities,Utilities,Water Utilities,"Bryn Mawr, Pennsylvania",reports
 WTS,Watts Water Technologies,Industrials,Building Products,,reports
-WU,Western Union,Information Technology,Data Processing & Outsourced Services,"Denver, Colorado",reports
+WU,Western Union,Financials,Transaction & Payment Processing Services,"Denver, Colorado",reports
 WWD,Woodward,Industrials,Electrical Components & Equipment,"Fort Collins, Colorado",reports
 WWE,World Wrestling Entertainment,Communication Services,Movies & Entertainment,"Stamford, Connecticut",reports
 X,U.S. Steel,Materials,Steel,"Pittsburgh, Pennsylvania",reports
-XPO,XPO Logistics,Industrials,Trucking,"Greenwich, Connecticut",reports
-XRX,Xerox,Information Technology,"Technology Hardware, Storage & Peripherals","Norwalk, Connecticut",reports
+XPO,"XPO, Inc.",Industrials,Cargo Ground Transportation,"Greenwich, Connecticut",reports
 YETI,Yeti,Consumer Discretionary,Leisure Products,"Austin, Texas",reports
 ZD,Ziff Davis,Communication Services,Advertising,"New York City, New York",reports
-ZI,ZoomInfo,Communication Services,,"Vancouver, Washington",reports
+ZI,ZoomInfo,Communication Services,Interactive Media & Services,"Vancouver, Washington",reports

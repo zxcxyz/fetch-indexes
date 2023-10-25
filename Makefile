@@ -10,13 +10,13 @@ $(VENV)/bin/activate: scripts/requirements.txt
 
 all: data500 data400 data600
 
-data500: $(VENV)/bin/activate
+500: $(VENV)/bin/activate
 	$(PYTHON) scripts/scrape_500.py
 
-data400: $(VENV)/bin/activate
+400: $(VENV)/bin/activate
 	$(PYTHON) scripts/scrape_400.py
 
-data600: $(VENV)/bin/activate
+600: $(VENV)/bin/activate
 	$(PYTHON) scripts/scrape_600.py
 
 validate:
